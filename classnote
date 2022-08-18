@@ -1,0 +1,40 @@
+this is the first class note by Mosi.
+
+first lets learn some terminal commands.
+
+cd >>>  change directory
+ls >>>  list the files in the current direcrory
+mkdir filename  >>>> make a file in the current directory
+
+You add the rest of them ( those you use every day )  gradually
+
+
+
+______
+next learn some Git command, for Gitlab and Github are the same.
+
+
+to get repo for the first time use 
+git clone repoAddress
+
+to get the latest update 
+git pull ( in the directory of the repo in your localhost )
+
+
+to update github/gitlab repo from localhost:
+( in the directory of the repo in localhost )
+
+git add .     ( means that add all the files to the current git branch )
+git commit -m "commit description"
+git push origin master  
+
+
+
+other git commands:
+
+git status
+git reflog
+git branch
+
+
+you also find some other ones and write here
